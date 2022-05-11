@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">A "Google Fu Search Master" software engineer from Texas</h3>
 
-<p align="left"> <a href="https://twitter.com/devmeloading" target="blank"><img src="https://img.shields.io/twitter/follow/devmeloading?logo=twitter&style=for-the-badge" alt="devmeloading" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devmeloading" target="blank"><img src="https://img.shields.io/twitter/follow/devmeloading?logo=twitter&style=for-the-badge" alt="devmeloading" /></a></p><p><img src="https://www.codewars.com/users/DevMeLoading/badges/large"> </p>
 
 - 🌱 I’m currently learning **Node.js and Express**
 
 - 👨‍💻 All of my projects are available at [Juanarce.me](Juanarce.me)
 
 - ⚡ Fun fact **You don't need to pay lots of 💰💰 to become a developer.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
