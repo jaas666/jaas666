@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: jaas666
             # Text on contribution graph 
-            text: #100DEVS
+            text: 100DEVS
        - uses: jasineri/simple-push-action@v1
