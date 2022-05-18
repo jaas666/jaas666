@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [Juanarce.me](Juanarce.me)
+- 👨‍💻 All of my projects are available at [Juanarce.me](https://Juanarce.me)
 
 - ⚡ Fun fact: **You don't need to pay lots of 💰💰 to become a developer.**
 
