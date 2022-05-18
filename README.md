@@ -42,14 +42,14 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=JAAS666&theme=react&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 <p align="center">
-  <a href="https://www.codewars.com/users/DevMeLoading"><img src="https://www.codewars.com/users/DevMeLoading/badges/large"></a>
+  <a href="https://www.codewars.com/users/DevMeLoading" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/DevMeLoading/badges/large"></a>
 </p>
 
 <br /><br /><br />  
 ### 🤝 Connect with me:
   
-<a href="https://twitter.com/devmeloading" target="blank">![JavaScript](https://img.shields.io/badge/-@DevMeLoading-05122A?style=for-the-badge&logo=twitter)</a>
-<a href="https://linkedin.com/in/juan-arce-tx" target="blank">![JavaScript](https://img.shields.io/badge/-Juan_A-05122A?style=for-the-badge&logo=linkedin)</a>
+<a href="https://twitter.com/devmeloading" target="_blank" rel="noreferrer">![JavaScript](https://img.shields.io/badge/-@DevMeLoading-05122A?style=for-the-badge&logo=twitter)</a>
+<a href="https://linkedin.com/in/juan-arce-tx" target="_blank" rel="noreferrer">![JavaScript](https://img.shields.io/badge/-Juan_A-05122A?style=for-the-badge&logo=linkedin)</a>
 
 <br /><br /><br />  
 
