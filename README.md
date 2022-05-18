@@ -6,19 +6,13 @@
 
 
 
-- 🌱 I’m currently learning **Full Stack Web Engineering**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [Juanarce.me](Juanarce.me)
 
 - ⚡ Fun fact: **You don't need to pay lots of 💰💰 to become a developer.**
 
 <br /><br /><br />
-### 🤝 Connect with me:
-  
-<a href="https://twitter.com/devmeloading" target="blank">![JavaScript](https://img.shields.io/badge/-@DevMeLoading-05122A?style=for-the-badge&logo=twitter)</a>
-<a href="https://linkedin.com/in/juan-arce-tx" target="blank">![JavaScript](https://img.shields.io/badge/-Juan_A-05122A?style=for-the-badge&logo=linkedin)</a>
-
-<br /><br /><br />  
 ### 🛠 Tech Stack
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)</a>
@@ -50,6 +44,15 @@
 <p align="center">
   <a href="https://www.codewars.com/users/DevMeLoading"><img src="https://www.codewars.com/users/DevMeLoading/badges/large"></a>
 </p>
+
+<br /><br /><br />  
+### 🤝 Connect with me:
+  
+<a href="https://twitter.com/devmeloading" target="blank">![JavaScript](https://img.shields.io/badge/-@DevMeLoading-05122A?style=for-the-badge&logo=twitter)</a>
+<a href="https://linkedin.com/in/juan-arce-tx" target="blank">![JavaScript](https://img.shields.io/badge/-Juan_A-05122A?style=for-the-badge&logo=linkedin)</a>
+
+<br /><br /><br />  
+
 
 <p align="center">
 <img src="https://github.com/jaas666/jaas666/blob/main/gitartwork.svg" />
