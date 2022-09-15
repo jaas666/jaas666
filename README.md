@@ -19,10 +19,3 @@
   
 <a href="https://twitter.com/devmeloading" target="_blank" rel="noreferrer">![Twitter](https://img.shields.io/badge/-@DevMeLoading-05122A?style=for-the-badge&logo=twitter)</a>
 <a href="https://linkedin.com/in/juan-arce-tx" target="_blank" rel="noreferrer">![LinkedIn](https://img.shields.io/badge/-Juan_A-05122A?style=for-the-badge&logo=linkedin)</a>
-
-<br /><br /><br />  
-
-
-<p align="center">
-<img src="https://github.com/jaas666/jaas666/blob/main/gitartwork.svg" />
-</p>
