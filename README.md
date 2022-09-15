@@ -13,9 +13,3 @@
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=JAAS666&theme=react&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-
-<br /><br /><br />  
-### 🤝 Connect with me:
-  
-<a href="https://twitter.com/devmeloading" target="_blank" rel="noreferrer">![Twitter](https://img.shields.io/badge/-@DevMeLoading-05122A?style=for-the-badge&logo=twitter)</a>
-<a href="https://linkedin.com/in/juan-arce-tx" target="_blank" rel="noreferrer">![LinkedIn](https://img.shields.io/badge/-Juan_A-05122A?style=for-the-badge&logo=linkedin)</a>
