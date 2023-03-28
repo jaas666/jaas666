@@ -3,9 +3,7 @@
 <h4 align="center">"Google Fu Master"</h4><br /><br /><br /> 
 
 ### 📈 Tech Stats
-<p align="center">
-  <img height="225em" src="https://activity-graph.herokuapp.com/graph?username=jaas666&theme=github"/>
-</p>
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaas666&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaas666&theme=react"/>
