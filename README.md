@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/jaas666/jaas666/blob/output/github-contribution-grid-snake.svg"/></p>
 <h1 align="center">Hi 👋, I'm Juan</h1>
-<h4 align="center">"Google Fu Master"</h4><br /><br /><br /> 
+<h4 align="center">"Google Fu Master"</h4><br />
 
 ### 📈 Tech Stats
 
